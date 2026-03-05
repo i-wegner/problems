@@ -9,4 +9,10 @@ Notes:
 i) range() has the following parameters:
         range(start, stop, step)
     
-ii) 
+ii) there are O(n) solutions using hash tables - consider trying to implement after covering hash tables
+
+### Merge Intervals Problem (496 - Module 3)
+
+Notes:
+
+i) re-implement without directionality
